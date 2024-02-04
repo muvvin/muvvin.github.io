@@ -1,0 +1,1 @@
+# The picture in article

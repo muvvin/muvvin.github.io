@@ -2,7 +2,7 @@
 
 Hello I am a Senior High School student from China.(17 years old now)
 
-See my [articles](article/)
+See my [articles](article/index)
 
 My Hobbies:
 - Computer Science

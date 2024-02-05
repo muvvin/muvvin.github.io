@@ -2,6 +2,8 @@
 
 ## Welcome to my personal page
 
+[Chinese 中文](./index_cn)
+
 I am a Senior High School student from China.(and I am 17 years old now)
 
 See my [articles](article/index) which writen by me.

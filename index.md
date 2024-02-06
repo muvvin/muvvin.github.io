@@ -10,6 +10,8 @@ See my [articles](article/index) which writen by me.
 
 See my [blog](blog/index) about my personal life.
 
+The things I [thanks](thank) for.
+
 My Hobbies:
 - Computer Science
 - Astronmy & Astrophysics

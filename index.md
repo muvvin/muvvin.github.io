@@ -1,23 +1,21 @@
-# Home Page 
+# 主页
 
-## Welcome to my personal page
+## 欢迎来到我的个人网络空间
 
-[Chinese 中文](./index_cn)
+本人是十七岁男高中生
 
-I am a Senior High School student from China.(and I am 17 years old now)
+由我发布的[文章](article/index.md)
 
-See my [articles](article/index) which writen by me.
+我的个人[博客](blog/index.md)
 
-See my [blog](blog/index) about my personal life.
+[资源共享](resourse/index.md)
 
-The things I [thanks](thank) for.
+[致谢](thank.md)
 
-My Hobbies:
-- Computer Science
-- Astronmy & Astrophysics
-- Marxism (International Communism)
+奇怪的兴趣:
+- 电脑
+- 天文学 & 物理学
+- 马克思主义（国际共产主义）
 
-My public contact E-Mail:
-- muffin_wu@outlook.com
-
-> I am looking for an English penpal.
+我的公共联系邮箱:
+- <muffin_wu@outlook.com>

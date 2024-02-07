@@ -4,13 +4,17 @@
 
 本人是十七岁男高中生
 
+---
+
 [个人文章](article/index.md)
 
 [个人博客](blog/index.md)
 
 [资源共享](resourse/index.md)
 
-[~致谢~](thank.md)
+[致谢](thank.md
+
+---
 
 奇怪的兴趣:
 - 电脑

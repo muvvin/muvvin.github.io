@@ -2,7 +2,7 @@
 
 ## Welcome to my personal page
 
-[Chinese 中文](./index_cn)
+[Chinese 中文](./index.md)
 
 I am a Senior High School student from China.(and I am 17 years old now)
 

@@ -2,7 +2,9 @@
 
 ## 欢迎来到我的个人网络空间
 
-本人是十七岁男高中生
+本人是十七岁男高中
+
+[English](index_en.md)
 
 ---
 
@@ -12,7 +14,7 @@
 
 [资源共享](resourse/index.md)
 
-[致谢](thank.md
+[致谢](thank.md)
 
 ---
 

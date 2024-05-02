@@ -8,6 +8,13 @@
 
 ---
 
+From the river to sea!
+Palestine will be free!
+
+从河流到大海，巴勒斯坦将会自由！
+
+---
+
 [个人文章](article/index.md)
 
 [个人博客](blog/index.md)
